@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shubham wankhede.
+- 👋 Hi, I’m Shubham Wankhede.
 - 👀 I’m interested in blockchain and cybersecurity.
 - 🌱 I’m currently learning full stack develpment.
 - 💞️ I’m looking to collaborate on front end.
